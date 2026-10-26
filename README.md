@@ -25,6 +25,9 @@ Kredensial lokal disimpan dalam `secret-github.txt` yang diabaikan Git. Jangan m
 - `index.html`: biodata, pengalaman, foto, kontak, dan struktur halaman.
 - `style.css`: palet warna, tata letak responsif, dan animasi.
 - `main.js`: parallax, filter galeri, detail pengalaman, serta menu ponsel.
-- `public/cv.md`: salinan profil yang dapat diunduh. Sinkronkan dengan `cv.md` ketika biodata berubah.
+- `public/cv.md`: salinan profil panjang. Sinkronkan dengan `cv.md` ketika biodata berubah.
+- `public/cv-legal.pdf`: CV singkat yang diunduh dari tombol utama. Sumbernya ada di `scripts/build_cv.py`.
+
+Pilihan bahasa Indonesia/English tersedia di header. Bahasa yang dipilih disimpan di browser pengunjung.
 
 Efek parallax dan kelopak otomatis dinonaktifkan ketika pengunjung mengaktifkan preferensi reduced motion. Font menggunakan Google Fonts dengan fallback font sistem.
