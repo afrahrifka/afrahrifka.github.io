@@ -4,7 +4,7 @@ LEGAL ADMINISTRATION | LEGAL SECRETARIAL SUPPORT | GENERAL LEGAL SUPPORT
 
 Jakarta, Indonesia
 Phone: +62 812-9149-5006
-Email: rifkafifah04@gmail.com
+Email: afrahrifka@gmail.com
 
 ---
 

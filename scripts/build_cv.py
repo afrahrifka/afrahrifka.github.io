@@ -56,7 +56,7 @@ def item(label, description):
 
 draw("AFRAH RIFKA AFIFAH", 20, 25, True, ink)
 draw("LEGAL & COMPLIANCE ENTHUSIAST  |  CORPORATE GOVERNANCE & LEGAL ADMINISTRATOR", 8.4, 15, True, rose)
-draw("Jakarta, Indonesia  |  +62 812-9149-5006  |  rifkafifah04@gmail.com", 8.5, 14, False, muted)
+draw("Jakarta, Indonesia  |  +62 812-9149-5006  |  afrahrifka@gmail.com", 8.5, 14, False, muted)
 
 heading("Profil")
 draw("Lulusan Sarjana Hukum UIN Sunan Kalijaga Yogyakarta dengan minat pada riset hukum, tata kelola korporat, kepatuhan regulasi, dan administrasi legal. Pengalaman di Sekretariat Wakil Presiden RI membentuk pola kerja adaptif, teliti, berintegritas, dan tangguh dalam lingkungan dinamis.", 8.5, 12)
