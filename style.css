@@ -78,3 +78,13 @@ body{font-size:15px}
 @media(max-width:760px){.header{gap:10px}.language-switch{margin-left:auto;order:2}.menu-toggle{order:3}.header nav{gap:15px;font-size:12px}.hero{min-height:1100px}.hero-content{width:100%}.hero-role{font-size:10px;max-width:390px}.hero-description{font-size:14px}.hero-actions{gap:20px}.hero-location{font-size:10px}.keyword-list span{font-size:10px}.about-copy>p,.timeline-content p,.skill-grid p,.training-card>p,.contact>p{font-size:13px}.timeline-row:hover{padding-inline:0}.skill-grid{gap:16px}.training{padding-top:70px}.training-grid{grid-template-columns:1fr}.training-card{min-height:0;padding:26px}.training-card h3{margin-top:52px}.work-filters button{font-size:10px}.contact-bottom{font-size:11px}}
 @media(max-width:380px){h1{font-size:73px}.hero-actions{align-items:flex-start;flex-direction:column;gap:6px}.portrait-composition{width:240px}}
 @media(prefers-reduced-motion:reduce){.hero-orb{animation:none}.skill-grid article:hover,.training-card:hover{transform:none}}
+
+/* Certificate and learning document gallery. */
+.certificate-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.certificate-card{display:flex;flex-direction:column;min-width:0;border:1px solid var(--line);background:#fbf9f4;padding:10px;transition:transform .25s,box-shadow .25s}
+.certificate-card:hover{transform:translateY(-4px);box-shadow:0 12px 28px #403f3812}
+.certificate-card img{width:100%;aspect-ratio:1.42;object-fit:cover;background:#eee9df}
+.certificate-card span{font:500 22px/1.2 var(--serif);margin:13px 4px 5px}
+.certificate-card small{font-size:9px;letter-spacing:1.2px;text-transform:uppercase;color:var(--rose);margin:0 4px 5px}
+@media(max-width:760px){.certificate-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.certificate-card{padding:7px}.certificate-card span{font-size:17px}}
+@media(max-width:420px){.certificate-grid{grid-template-columns:1fr}}

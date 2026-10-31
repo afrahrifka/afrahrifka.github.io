@@ -45,7 +45,8 @@ dialog.addEventListener('close', () => { document.body.style.overflow = ''; last
 document.querySelector('#year').textContent = new Date().getFullYear();
 
 const english = {
- 'Langsung ke konten':'Skip to content','Beranda':'Home','Tentang':'About','Perjalanan':'Journey','Portofolio':'Portfolio','Pelatihan':'Training','Mari terhubung':'Get in touch',
+ 'Langsung ke konten':'Skip to content','Beranda':'Home','Tentang':'About','Perjalanan':'Journey','Portofolio':'Portfolio','Pelatihan':'Training','Dokumen':'Documents','Mari terhubung':'Get in touch',
+ '06 / DOKUMEN & SERTIFIKAT':'06 / CERTIFICATES & DOCUMENTS','Jejak belajar,':'A record of learning,','tersimpan dalam karya.':'kept in every milestone.','Kumpulan sertifikat, materi bootcamp, dan webinar.':'A collection of certificates, bootcamp materials, and webinars.','Pilih gambar untuk melihat dokumen ukuran penuh.':'Select an image to view the full-size document.','Sertifikat':'Certificate','Seminar':'Seminar','Webinar':'Webinar','Materi':'Material','07 / MARI TERHUBUNG':'07 / GET IN TOUCH',
  'Halo, saya':'Hello, I’m','Berorientasi pada detail, berpegang pada integritas,':'Driven by detail and grounded in integrity,','dan tangguh di lingkungan yang dinamis.':'resilient in dynamic environments.',
  'Unduh CV':'Download CV','Jelajahi perjalanan saya':'Explore my journey','Jakarta, Indonesia':'Jakarta, Indonesia',
  '01 / TENTANG SAYA':'01 / ABOUT ME','Berakar pada nilai.':'Rooted in values.','Bertumbuh dalam makna.':'Growing with purpose.',
@@ -90,7 +91,16 @@ const imageAlternates = new Map([
  ['Kegiatan analisis peraturan dan penyusunan memorandum','Reviewing regulations and preparing a legal memorandum'],
  ['Meja pelayanan pengaduan Lapor Mas Wapres','Lapor Mas Wapres complaint intake desk'],
  ['Diskusi aspek ketenagakerjaan industri nikel di Komnas HAM','Discussion of labor issues in the nickel industry at Komnas HAM'],
- ['Foto bersama tim di ruang rapat Sekretariat Wakil Presiden','Team photo in a meeting room at the Secretariat of the Vice President']
+ ['Foto bersama tim di ruang rapat Sekretariat Wakil Presiden','Team photo in a meeting room at the Secretariat of the Vice President'],
+ ['Sertifikat Praktikum Pengadilan','Practicum Court Certificate'],
+ ['Sertifikat Novo Club Leadership Bootcamp','Novo Club Leadership Bootcamp Certificate'],
+ ['Sertifikat Praktikum Legal Drafting','Legal Drafting Practicum Certificate'],
+ ['Seminar Knowledge Management','Knowledge Management Seminar'],
+ ['Sertifikat Introduction to Cyber Security','Introduction to Cyber Security Certificate'],
+ ['Sertifikat Pendidikan dan Pelatihan Satgas PPKS','PPKS Task Force Education and Training Certificate'],
+ ['Webinar AI for Productivity','AI for Productivity Webinar'],
+ ['Materi Bootcamp Novo Club','Novo Club Bootcamp Materials'],
+ ['Webinar Membangun Budaya Kerja Anti Korupsi','Building an Anti-Corruption Workplace Culture Webinar']
 ]);
 const textWalker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
 while (textWalker.nextNode()) {
