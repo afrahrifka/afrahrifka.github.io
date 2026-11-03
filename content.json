@@ -1102,7 +1102,7 @@
       "group": "skills",
       "label": "Judul keahlian (baris 1)",
       "kind": "text",
-      "id": "Ketelitian dalam pikiran.",
+      "id": "Ketelitian dalam berpikir.",
       "en": "Careful thinking."
     },
     {
@@ -1110,7 +1110,7 @@
       "group": "skills",
       "label": "Judul keahlian (baris 2)",
       "kind": "text",
-      "id": "Kepedulian dalam tindakan.",
+      "id": "Kepedulian dalam bertindak",
       "en": "Purposeful action."
     },
     {
@@ -1182,7 +1182,7 @@
       "group": "skills",
       "label": "Penjelasan keahlian 2",
       "kind": "text",
-      "id": "Menangani penerimaan pengaduan, memeriksa kelengkapan bukti pendukung, dan mengelola arsip fisik maupun digital agar rekam dokumen tertata dan mudah ditelusuri.",
+      "id": "Menangani penerimaan pengaduan, memeriksa dokumen pendukung, serta mengelola arsip fisik dan digital agar informasi tertata dan mudah ditelusuri.",
       "en": "Handling complaint intake, checking supporting evidence, and managing physical and digital archives so records remain organized and traceable."
     },
     {
@@ -1190,7 +1190,7 @@
       "group": "skills",
       "label": "Kata kunci keahlian 2",
       "kind": "text",
-      "id": "Complaint Intake · Evidence Verification · Records Management",
+      "id": "Complaint Intake · Document Verification · Records Management",
       "en": "Complaint Intake · Evidence Verification · Records Management"
     },
     {
@@ -1222,7 +1222,7 @@
       "group": "skills",
       "label": "Penjelasan keahlian 3",
       "kind": "text",
-      "id": "Mengelola surat-menyurat resmi, inventaris, persiapan kegiatan, dan laporan; berkoordinasi dengan tim serta pemangku kepentingan untuk mendukung operasional.",
+      "id": "Mengelola surat-menyurat resmi, inventaris, persiapan kegiatan, dan laporan; serta berkoordinasi dengan tim dan pemangku kepentingan untuk mendukung operasional.",
       "en": "Managing official correspondence, inventory, event preparation, and reports; coordinating with teams and stakeholders to support operations."
     },
     {
@@ -1230,7 +1230,7 @@
       "group": "skills",
       "label": "Kata kunci keahlian 3",
       "kind": "text",
-      "id": "Official Correspondence · Inventory · Microsoft Office",
+      "id": "Official Correspondence · Inventory Management · Microsoft Office",
       "en": "Official Correspondence · Inventory · Microsoft Office"
     },
     {
