@@ -838,7 +838,7 @@
       "group": "work",
       "label": "Judul portofolio (baris 2)",
       "kind": "text",
-      "id": "pengalaman yang nyata.",
+      "id": "Jejak yang bermakna",
       "en": "lessons that last."
     },
     {
@@ -846,7 +846,7 @@
       "group": "work",
       "label": "Pengantar portofolio (baris 1)",
       "kind": "text",
-      "id": "Catatan visual tentang belajar, berkolaborasi,",
+      "id": "Setiap pengalaman menyimpan proses belajar,",
       "en": "A visual record of learning, collaborating,"
     },
     {
@@ -854,7 +854,7 @@
       "group": "work",
       "label": "Pengantar portofolio (baris 2)",
       "kind": "text",
-      "id": "dan hadir untuk memberi kontribusi.",
+      "id": "kolaborasi, dan kontribusi yang berarti.",
       "en": "and making a thoughtful contribution."
     },
     {
@@ -902,7 +902,7 @@
       "group": "work",
       "label": "Deskripsi foto cerita 1",
       "kind": "alt",
-      "id": "Kegiatan analisis peraturan dan penyusunan memorandum",
+      "id": "Kegiatan kajian regulasi dan analisis perkara selama magang di Sekretariat Wakil Presiden RI.",
       "en": "Reviewing regulations and preparing a legal memorandum"
     },
     {
@@ -934,7 +934,7 @@
       "group": "work",
       "label": "Judul cerita 1",
       "kind": "text",
-      "id": "Dari penelaahan, menuju pemahaman.",
+      "id": "Menelusuri Fakta, Memahami Regulasi.",
       "en": "From review to understanding."
     },
     {
@@ -942,7 +942,7 @@
       "group": "work",
       "label": "Ringkasan cerita 1",
       "kind": "text",
-      "id": "Riset peraturan & dukungan memorandum hukum",
+      "id": "Penelitian regulasi, analisis isu hukum, dan penyusunan memorandum untuk mendukung peninjauan internal.",
       "en": "Regulatory research & legal memorandum support"
     },
     {
@@ -982,7 +982,7 @@
       "group": "work",
       "label": "Judul cerita 2",
       "kind": "text",
-      "id": "Mendengarkan dengan kepedulian.",
+      "id": "Melayani dengan Ketelitian.",
       "en": "Listening with care."
     },
     {
@@ -990,7 +990,7 @@
       "group": "work",
       "label": "Ringkasan cerita 2",
       "kind": "text",
-      "id": "Dukungan administrasi layanan Lapor Mas Wapres",
+      "id": "Dukungan administrasi pengaduan melalui klarifikasi informasi, pemeriksaan lampiran, pencatatan, dan input data.",
       "en": "Administrative support for Lapor Mas Wapres"
     },
     {
@@ -998,7 +998,7 @@
       "group": "work",
       "label": "Deskripsi foto cerita 3",
       "kind": "alt",
-      "id": "Diskusi aspek ketenagakerjaan industri nikel di Komnas HAM",
+      "id": "Diskusi mengenai aspek ketenagakerjaan industri nikel bersama Komnas HAM.",
       "en": "Discussion of labor issues in the nickel industry at Komnas HAM"
     },
     {
@@ -1006,7 +1006,7 @@
       "group": "work",
       "label": "Foto cerita 3",
       "kind": "image",
-      "id": "/public/assets/komnas-ham-diskusi-aspek-ketenagakerjaan-industri-nikel.jpg",
+      "id": "/public/assets/1000713990.jpg",
       "en": "/public/assets/komnas-ham-diskusi-aspek-ketenagakerjaan-industri-nikel.jpg"
     },
     {
@@ -1030,7 +1030,7 @@
       "group": "work",
       "label": "Judul cerita 3",
       "kind": "text",
-      "id": "Memperluas ruang perspektif.",
+      "id": "Memperluas Perspektif Hukum.",
       "en": "Broadening perspectives."
     },
     {
@@ -1038,7 +1038,7 @@
       "group": "work",
       "label": "Ringkasan cerita 3",
       "kind": "text",
-      "id": "Dokumentasi diskusi di Komnas HAM",
+      "id": "Dokumentasi partisipasi dalam diskusi isu ketenagakerjaan dan hak asasi manusia.",
       "en": "Documentation of a discussion at Komnas HAM"
     },
     {
@@ -1046,7 +1046,7 @@
       "group": "work",
       "label": "Deskripsi foto cerita 4",
       "kind": "alt",
-      "id": "Foto bersama tim di ruang rapat Sekretariat Wakil Presiden",
+      "id": "Dokumentasi kebersamaan bersama tim magang di lingkungan Sekretariat Wakil Presiden RI.",
       "en": "Team photo in a meeting room at the Secretariat of the Vice President"
     },
     {
@@ -1078,7 +1078,7 @@
       "group": "work",
       "label": "Judul cerita 4",
       "kind": "text",
-      "id": "Bertumbuh bersama orang-orang baik.",
+      "id": "Bertumbuh dalam Kolaborasi.",
       "en": "Growing with a great team."
     },
     {
@@ -1086,7 +1086,7 @@
       "group": "work",
       "label": "Ringkasan cerita 4",
       "kind": "text",
-      "id": "Belajar dan berkolaborasi di lingkungan pemerintahan",
+      "id": "Belajar, beradaptasi, dan berkolaborasi bersama tim dalam lingkungan kerja pemerintahan.",
       "en": "Learning and collaborating in a government setting"
     },
     {
