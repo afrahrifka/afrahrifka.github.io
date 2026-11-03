@@ -6,7 +6,7 @@
       "group": "global",
       "label": "Deskripsi singkat situs",
       "kind": "alt",
-      "id": "Portofolio Afrah Rifka Afifah, Sarjana Hukum dengan minat pada legal research, corporate governance, regulatory compliance, dan legal administration.",
+      "id": "Portofolio Afrah Rifka Afifah, Sarjana Hukum dengan fokus legal research, legal administration, compliance, dan governance.",
       "en": "Portfolio of Afrah Rifka Afifah, a law graduate interested in legal research, corporate governance, regulatory compliance, and legal administration."
     },
     {
@@ -14,7 +14,7 @@
       "group": "global",
       "label": "Judul di tab browser",
       "kind": "text",
-      "id": "Afrah Rifka Afifah — A Quiet Bloom",
+      "id": "Afrah Rifka Afifah — Legal Portofolio",
       "en": "Afrah Rifka Afifah — A Quiet Bloom"
     },
     {
@@ -38,7 +38,7 @@
       "group": "global",
       "label": "Nama pada logo",
       "kind": "text",
-      "id": "afrah",
+      "id": "Afrah",
       "en": "afrah"
     },
     {
@@ -78,7 +78,7 @@
       "group": "global",
       "label": "Menu perjalanan",
       "kind": "text",
-      "id": "Perjalanan",
+      "id": "Pengalaman",
       "en": "Journey"
     },
     {
@@ -94,7 +94,7 @@
       "group": "global",
       "label": "Menu pelatihan dan dokumen",
       "kind": "text",
-      "id": "Pelatihan & dokumen",
+      "id": "Sertifikat & Dokumen",
       "en": "Pelatihan & dokumen"
     },
     {
@@ -102,7 +102,7 @@
       "group": "global",
       "label": "Menu kontak",
       "kind": "text",
-      "id": "Mari terhubung",
+      "id": "Hubungi Saya",
       "en": "Get in touch"
     },
     {
@@ -1870,7 +1870,7 @@
       "group": "global",
       "label": "Kalimat inspirasi 1",
       "kind": "text",
-      "id": "Rooted in integrity",
+      "id": "Rooted in Integrity",
       "en": "Rooted in integrity"
     },
     {
@@ -1878,7 +1878,7 @@
       "group": "global",
       "label": "Kalimat inspirasi 2",
       "kind": "text",
-      "id": "Growing with empathy",
+      "id": "Growing with Purpose",
       "en": "Growing with empathy"
     },
     {
@@ -1886,7 +1886,7 @@
       "group": "global",
       "label": "Kalimat inspirasi 3",
       "kind": "text",
-      "id": "Blooming with purpose",
+      "id": "Blooming through Knowledge",
       "en": "Blooming with purpose"
     },
     {
@@ -1894,7 +1894,7 @@
       "group": "global",
       "label": "Kalimat inspirasi 4",
       "kind": "text",
-      "id": "Rooted in integrity",
+      "id": "Blooming with Impact",
       "en": "Rooted in integrity"
     },
     {
