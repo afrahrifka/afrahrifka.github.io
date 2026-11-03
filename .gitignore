@@ -5,3 +5,5 @@ dist/
 # Local GitHub credentials
 secret-github.txt
 seceret-github.txt
+secret-admin.txt
+admin/

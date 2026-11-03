@@ -1,0 +1,1999 @@
+{
+  "version": 1,
+  "fields": [
+    {
+      "key": "copy-0001",
+      "group": "global",
+      "label": "Deskripsi singkat situs",
+      "kind": "alt",
+      "id": "Portofolio Afrah Rifka Afifah, Sarjana Hukum dengan minat pada legal research, corporate governance, regulatory compliance, dan legal administration.",
+      "en": "Portfolio of Afrah Rifka Afifah, a law graduate interested in legal research, corporate governance, regulatory compliance, and legal administration."
+    },
+    {
+      "key": "copy-0002",
+      "group": "global",
+      "label": "Judul di tab browser",
+      "kind": "text",
+      "id": "Afrah Rifka Afifah — A Quiet Bloom",
+      "en": "Afrah Rifka Afifah — A Quiet Bloom"
+    },
+    {
+      "key": "copy-0003",
+      "group": "global",
+      "label": "Teks tautan aksesibilitas",
+      "kind": "text",
+      "id": "Langsung ke konten",
+      "en": "Skip to content"
+    },
+    {
+      "key": "copy-0004",
+      "group": "global",
+      "label": "Label aksesibilitas: Afrah Rifka, beranda 1",
+      "kind": "alt",
+      "id": "Afrah Rifka, beranda",
+      "en": "Afrah Rifka, beranda"
+    },
+    {
+      "key": "copy-0005",
+      "group": "global",
+      "label": "Nama pada logo",
+      "kind": "text",
+      "id": "afrah",
+      "en": "afrah"
+    },
+    {
+      "key": "copy-0007",
+      "group": "global",
+      "label": "Label aksesibilitas: Buka menu 1",
+      "kind": "alt",
+      "id": "Buka menu",
+      "en": "Buka menu"
+    },
+    {
+      "key": "copy-0008",
+      "group": "global",
+      "label": "Label aksesibilitas: Navigasi utama 1",
+      "kind": "alt",
+      "id": "Navigasi utama",
+      "en": "Navigasi utama"
+    },
+    {
+      "key": "copy-0009",
+      "group": "global",
+      "label": "Menu beranda",
+      "kind": "text",
+      "id": "Beranda",
+      "en": "Home"
+    },
+    {
+      "key": "copy-0010",
+      "group": "global",
+      "label": "Menu tentang saya",
+      "kind": "text",
+      "id": "Tentang",
+      "en": "About"
+    },
+    {
+      "key": "copy-0011",
+      "group": "global",
+      "label": "Menu perjalanan",
+      "kind": "text",
+      "id": "Perjalanan",
+      "en": "Journey"
+    },
+    {
+      "key": "copy-0012",
+      "group": "global",
+      "label": "Menu portofolio",
+      "kind": "text",
+      "id": "Portofolio",
+      "en": "Portfolio"
+    },
+    {
+      "key": "copy-0013",
+      "group": "global",
+      "label": "Menu pelatihan dan dokumen",
+      "kind": "text",
+      "id": "Pelatihan & dokumen",
+      "en": "Pelatihan & dokumen"
+    },
+    {
+      "key": "copy-0014",
+      "group": "global",
+      "label": "Menu kontak",
+      "kind": "text",
+      "id": "Mari terhubung",
+      "en": "Get in touch"
+    },
+    {
+      "key": "copy-0016",
+      "group": "global",
+      "label": "Label aksesibilitas: Pilih bahasa 1",
+      "kind": "alt",
+      "id": "Pilih bahasa",
+      "en": "Pilih bahasa"
+    },
+    {
+      "key": "copy-0017",
+      "group": "global",
+      "label": "Menu & informasi · Label tombol 1",
+      "kind": "text",
+      "id": "ID",
+      "en": "ID"
+    },
+    {
+      "key": "copy-0018",
+      "group": "global",
+      "label": "Menu & informasi · Label tombol 2",
+      "kind": "text",
+      "id": "EN",
+      "en": "EN"
+    },
+    {
+      "key": "copy-0019",
+      "group": "home",
+      "label": "Ornamen bunga beranda 1",
+      "kind": "image",
+      "id": "/public/decor/sakura.svg",
+      "en": "/public/decor/sakura.svg"
+    },
+    {
+      "key": "copy-0020",
+      "group": "home",
+      "label": "Ornamen bunga beranda 2",
+      "kind": "image",
+      "id": "/public/decor/sakura.svg",
+      "en": "/public/decor/sakura.svg"
+    },
+    {
+      "key": "copy-0022",
+      "group": "home",
+      "label": "Kalimat kecil di atas nama",
+      "kind": "text",
+      "id": "A LITTLE INTRODUCTION",
+      "en": "A LITTLE INTRODUCTION"
+    },
+    {
+      "key": "copy-0023",
+      "group": "home",
+      "label": "Sapaan pembuka",
+      "kind": "text",
+      "id": "Halo, saya",
+      "en": "Hello, I’m"
+    },
+    {
+      "key": "copy-0024",
+      "group": "home",
+      "label": "Nama (baris pertama)",
+      "kind": "text",
+      "id": "Afrah Rifka",
+      "en": "Afrah Rifka"
+    },
+    {
+      "key": "copy-0025",
+      "group": "home",
+      "label": "Nama (baris kedua)",
+      "kind": "text",
+      "id": "Afifah.",
+      "en": "Afifah."
+    },
+    {
+      "key": "copy-0026",
+      "group": "home",
+      "label": "Bidang pekerjaan 1",
+      "kind": "text",
+      "id": "LEGAL ANALYST",
+      "en": "LEGAL ANALYST"
+    },
+    {
+      "key": "copy-0028",
+      "group": "home",
+      "label": "Bidang pekerjaan 2",
+      "kind": "text",
+      "id": "LEGAL ADMINISTRATION",
+      "en": "LEGAL ADMINISTRATION"
+    },
+    {
+      "key": "copy-0030",
+      "group": "home",
+      "label": "Bidang pekerjaan 3",
+      "kind": "text",
+      "id": "COMPLIANCE & LEGAL SUPPORT",
+      "en": "COMPLIANCE & LEGAL SUPPORT"
+    },
+    {
+      "key": "copy-0031",
+      "group": "home",
+      "label": "Deskripsi singkat (baris 1)",
+      "kind": "text",
+      "id": "Berorientasi pada detail, berpegang pada integritas,",
+      "en": "Driven by detail and grounded in integrity,"
+    },
+    {
+      "key": "copy-0032",
+      "group": "home",
+      "label": "Deskripsi singkat (baris 2)",
+      "kind": "text",
+      "id": "dan tangguh di lingkungan yang dinamis.",
+      "en": "resilient in dynamic environments."
+    },
+    {
+      "key": "copy-0033",
+      "group": "home",
+      "label": "Berkas CV",
+      "kind": "asset",
+      "id": "/public/cv.pdf",
+      "en": "/public/cv.pdf"
+    },
+    {
+      "key": "copy-0034",
+      "group": "home",
+      "label": "Nama file saat CV diunduh",
+      "kind": "text",
+      "id": "CV-Afrah-Rifka-Afifah.pdf",
+      "en": "CV-Afrah-Rifka-Afifah.pdf"
+    },
+    {
+      "key": "copy-0035",
+      "group": "home",
+      "label": "Teks tombol unduh CV",
+      "kind": "text",
+      "id": "Unduh CV",
+      "en": "Download CV"
+    },
+    {
+      "key": "copy-0037",
+      "group": "home",
+      "label": "Teks tautan ke perjalanan",
+      "kind": "text",
+      "id": "Jelajahi perjalanan saya",
+      "en": "Explore my journey"
+    },
+    {
+      "key": "copy-0040",
+      "group": "home",
+      "label": "Kota atau lokasi",
+      "kind": "text",
+      "id": "Jakarta, Indonesia",
+      "en": "Jakarta, Indonesia"
+    },
+    {
+      "key": "copy-0042",
+      "group": "home",
+      "label": "Ketersediaan pekerjaan",
+      "kind": "text",
+      "id": "Open to meaningful opportunities",
+      "en": "Open to meaningful opportunities"
+    },
+    {
+      "key": "copy-0043",
+      "group": "home",
+      "label": "Deskripsi foto profil",
+      "kind": "alt",
+      "id": "Afrah Rifka Afifah mengenakan kebaya dan selempang kelulusan UIN Sunan Kalijaga",
+      "en": "Afrah Rifka Afifah wearing graduation attire at UIN Sunan Kalijaga"
+    },
+    {
+      "key": "copy-0044",
+      "group": "home",
+      "label": "Foto profil utama",
+      "kind": "image",
+      "id": "/public/self-picture/IMG-20261026-WA0056.jpg",
+      "en": "/public/self-picture/IMG-20261026-WA0056.jpg"
+    },
+    {
+      "key": "copy-0045",
+      "group": "home",
+      "label": "Catatan foto (baris 1)",
+      "kind": "text",
+      "id": "a heart for people,",
+      "en": "a heart for people,"
+    },
+    {
+      "key": "copy-0046",
+      "group": "home",
+      "label": "Catatan foto (baris 2)",
+      "kind": "text",
+      "id": "a mind for details.",
+      "en": "a mind for details."
+    },
+    {
+      "key": "copy-0047",
+      "group": "home",
+      "label": "Keterangan foto profil",
+      "kind": "text",
+      "id": "GROWING WITH PURPOSE",
+      "en": "GROWING WITH PURPOSE"
+    },
+    {
+      "key": "copy-0049",
+      "group": "home",
+      "label": "Petunjuk gulir halaman",
+      "kind": "text",
+      "id": "SCROLL TO BLOOM",
+      "en": "SCROLL TO BLOOM"
+    },
+    {
+      "key": "copy-0051",
+      "group": "home",
+      "label": "Kalimat penutup beranda",
+      "kind": "text",
+      "id": "桜 · EVERY SEASON, A NEW BEGINNING",
+      "en": "桜 · EVERY SEASON, A NEW BEGINNING"
+    },
+    {
+      "key": "copy-0052",
+      "group": "about",
+      "label": "Deskripsi foto tentang saya",
+      "kind": "alt",
+      "id": "Afrah di koridor kampus dengan cahaya alami",
+      "en": "Afrah in a sunlit university corridor"
+    },
+    {
+      "key": "copy-0053",
+      "group": "about",
+      "label": "Foto bagian tentang saya",
+      "kind": "image",
+      "id": "/public/self-picture/IMG-20261026-WA0052.jpg",
+      "en": "/public/self-picture/IMG-20261026-WA0052.jpg"
+    },
+    {
+      "key": "copy-0054",
+      "group": "about",
+      "label": "Keterangan foto tentang saya",
+      "kind": "text",
+      "id": "01 — THE PERSON BEHIND THE WORK",
+      "en": "01 — THE PERSON BEHIND THE WORK"
+    },
+    {
+      "key": "copy-0055",
+      "group": "about",
+      "label": "Stempel foto (baris 1)",
+      "kind": "text",
+      "id": "with care",
+      "en": "with care"
+    },
+    {
+      "key": "copy-0056",
+      "group": "about",
+      "label": "Stempel foto (baris 2)",
+      "kind": "text",
+      "id": "& purpose",
+      "en": "& purpose"
+    },
+    {
+      "key": "copy-0057",
+      "group": "about",
+      "label": "Label bagian tentang saya",
+      "kind": "text",
+      "id": "01 / TENTANG SAYA",
+      "en": "01 / ABOUT ME"
+    },
+    {
+      "key": "copy-0058",
+      "group": "about",
+      "label": "Judul tentang saya (baris 1)",
+      "kind": "text",
+      "id": "Berakar pada nilai.",
+      "en": "Rooted in values."
+    },
+    {
+      "key": "copy-0059",
+      "group": "about",
+      "label": "Judul tentang saya (baris 2)",
+      "kind": "text",
+      "id": "Bertumbuh dalam makna.",
+      "en": "Growing with purpose."
+    },
+    {
+      "key": "copy-0060",
+      "group": "about",
+      "label": "Cerita profil",
+      "kind": "text",
+      "id": "Sebagai lulusan Sarjana Hukum UIN Sunan Kalijaga Yogyakarta dengan pengalaman lebih dari 1 tahun di bidang hukum dan administrasi, saya memiliki minat mendalam pada tata kelola korporat (corporate governance), kepatuhan regulasi (compliance), riset hukum, dan administrasi legal. Pengalaman saya sebagai Legal Analyst intern di Sekretariat Wakil Presiden RI serta Administrative Intern di PLT UIN Sunan Kalijaga telah membentuk pola kerja yang adaptif, berorientasi pada detail, berintegritas tinggi, dan terbiasa di lingkungan kerja yang dinamis.",
+      "en": "As a Bachelor of Laws graduate from UIN Sunan Kalijaga Yogyakarta with over one year of experience in law and administration, I have a deep interest in corporate governance, regulatory compliance, legal research, and legal administration. My experience as a Legal Analyst intern at the Secretariat of the Vice President of Indonesia and an Administrative Intern at PLT UIN Sunan Kalijaga has shaped an adaptable, detail-oriented, and highly principled approach to work in dynamic environments."
+    },
+    {
+      "key": "copy-0061",
+      "group": "about",
+      "label": "Label aksesibilitas: Bidang minat 1",
+      "kind": "alt",
+      "id": "Bidang minat",
+      "en": "Bidang minat"
+    },
+    {
+      "key": "copy-0062",
+      "group": "about",
+      "label": "Bidang minat 1",
+      "kind": "text",
+      "id": "Legal Research & Analysis",
+      "en": "Legal Research & Analysis"
+    },
+    {
+      "key": "copy-0063",
+      "group": "about",
+      "label": "Bidang minat 2",
+      "kind": "text",
+      "id": "Regulatory Review",
+      "en": "Regulatory Review"
+    },
+    {
+      "key": "copy-0064",
+      "group": "about",
+      "label": "Bidang minat 3",
+      "kind": "text",
+      "id": "Case Administration",
+      "en": "Case Administration"
+    },
+    {
+      "key": "copy-0065",
+      "group": "about",
+      "label": "Bidang minat 4",
+      "kind": "text",
+      "id": "Records Management",
+      "en": "Records Management"
+    },
+    {
+      "key": "copy-0066",
+      "group": "about",
+      "label": "Bidang minat 5",
+      "kind": "text",
+      "id": "Public Governance",
+      "en": "Public Governance"
+    },
+    {
+      "key": "copy-0067",
+      "group": "about",
+      "label": "Catatan profil",
+      "kind": "text",
+      "id": "Thoughtful work. Meaningful impact.",
+      "en": "Thoughtful work. Meaningful impact."
+    },
+    {
+      "key": "copy-0068",
+      "group": "about",
+      "label": "Nilai IPK",
+      "kind": "text",
+      "id": "3,92",
+      "en": "3,92"
+    },
+    {
+      "key": "copy-0070",
+      "group": "about",
+      "label": "Keterangan nilai IPK",
+      "kind": "text",
+      "id": "IPK SARJANA HUKUM",
+      "en": "LAW DEGREE GPA"
+    },
+    {
+      "key": "copy-0073",
+      "group": "about",
+      "label": "Keterangan evaluasi magang",
+      "kind": "text",
+      "id": "EVALUASI MAGANG",
+      "en": "INTERNSHIP EVALUATION"
+    },
+    {
+      "key": "copy-0074",
+      "group": "journey",
+      "label": "Label bagian perjalanan",
+      "kind": "text",
+      "id": "02 / JEJAK PERJALANAN",
+      "en": "02 / MY JOURNEY"
+    },
+    {
+      "key": "copy-0075",
+      "group": "journey",
+      "label": "Judul perjalanan (baris 1)",
+      "kind": "text",
+      "id": "Setiap langkah,",
+      "en": "Every step,"
+    },
+    {
+      "key": "copy-0076",
+      "group": "journey",
+      "label": "Judul perjalanan (baris 2)",
+      "kind": "text",
+      "id": "sebuah pembelajaran.",
+      "en": "a chance to learn."
+    },
+    {
+      "key": "copy-0077",
+      "group": "journey",
+      "label": "Pengantar perjalanan (baris 1)",
+      "kind": "text",
+      "id": "Dari ruang akademik ke lingkungan profesional yang dinamis.",
+      "en": "From university to a dynamic professional environment."
+    },
+    {
+      "key": "copy-0078",
+      "group": "journey",
+      "label": "Pengantar perjalanan (baris 2)",
+      "kind": "text",
+      "id": "Orientasi detail, integritas, dan ketahanan membentuk cara saya bekerja.",
+      "en": "Attention to detail, integrity, and resilience shape the way I work."
+    },
+    {
+      "key": "copy-0079",
+      "group": "journey",
+      "label": "Pengalaman 1 · Periode pengalaman",
+      "kind": "text",
+      "id": "JAN — JUN 2026",
+      "en": "JAN — JUN 2026"
+    },
+    {
+      "key": "copy-0080",
+      "group": "journey",
+      "label": "Pengalaman 1 · Jenis pengalaman",
+      "kind": "text",
+      "id": "PROFESSIONAL EXPERIENCE",
+      "en": "PROFESSIONAL EXPERIENCE"
+    },
+    {
+      "key": "copy-0081",
+      "group": "journey",
+      "label": "Pengalaman 1 · Posisi",
+      "kind": "text",
+      "id": "Legal Analyst",
+      "en": "Legal Analyst"
+    },
+    {
+      "key": "copy-0082",
+      "group": "journey",
+      "label": "Pengalaman 1 · Instansi atau organisasi",
+      "kind": "text",
+      "id": "Sekretariat Wakil Presiden Republik Indonesia · Asisten Deputi Bidang Politik, Keamanan, Hukum, dan HAM",
+      "en": "Secretariat of the Vice President of Indonesia · Assistant Deputy for Politics, Security, Law, and Human Rights"
+    },
+    {
+      "key": "copy-0083",
+      "group": "journey",
+      "label": "Pengalaman 1 · Tugas dan pencapaian",
+      "kind": "text",
+      "id": "Menyusun kronologi fakta, mengidentifikasi isu hukum, menelaah regulasi, serta menyiapkan 3–4 memorandum hukum komprehensif per bulan untuk peninjauan internal. Mengelola bukti dan arsip perkara yang dapat ditelusuri, serta membantu layanan Lapor Mas Wapres menangani 2–4 pengadu setiap minggu secara bergiliran.",
+      "en": "Built fact chronologies, identified legal issues, reviewed regulations, and prepared 3–4 comprehensive legal memoranda per month for internal review. Organized traceable evidence and case files, and supported Lapor Mas Wapres in handling 2–4 complainants weekly during rotating assignments."
+    },
+    {
+      "key": "copy-0084",
+      "group": "journey",
+      "label": "Pengalaman 1 · Keahlian utama",
+      "kind": "text",
+      "id": "Legal Analysis",
+      "en": "Legal Analysis"
+    },
+    {
+      "key": "copy-0085",
+      "group": "journey",
+      "label": "Pengalaman 1 · Keahlian tambahan",
+      "kind": "text",
+      "id": "Regulatory Research",
+      "en": "Regulatory Research"
+    },
+    {
+      "key": "copy-0086",
+      "group": "journey",
+      "label": "Pengalaman 1 · Keahlian lainnya",
+      "kind": "text",
+      "id": "Case Documentation",
+      "en": "Case Documentation"
+    },
+    {
+      "key": "copy-0088",
+      "group": "journey",
+      "label": "Pengalaman 2 · Periode pengalaman",
+      "kind": "text",
+      "id": "OKT 2023 — FEB 2025",
+      "en": "OCT 2023 — FEB 2025"
+    },
+    {
+      "key": "copy-0089",
+      "group": "journey",
+      "label": "Pengalaman 2 · Jenis pengalaman",
+      "kind": "text",
+      "id": "ADMINISTRATIVE EXPERIENCE",
+      "en": "ADMINISTRATIVE EXPERIENCE"
+    },
+    {
+      "key": "copy-0090",
+      "group": "journey",
+      "label": "Pengalaman 2 · Posisi",
+      "kind": "text",
+      "id": "Administrative Intern",
+      "en": "Administrative Intern"
+    },
+    {
+      "key": "copy-0091",
+      "group": "journey",
+      "label": "Pengalaman 2 · Instansi atau organisasi",
+      "kind": "text",
+      "id": "Integrated Service Center (PLT) · UIN Sunan Kalijaga",
+      "en": "Integrated Service Center (PLT) · UIN Sunan Kalijaga"
+    },
+    {
+      "key": "copy-0092",
+      "group": "journey",
+      "label": "Pengalaman 2 · Tugas dan pencapaian",
+      "kind": "text",
+      "id": "Mengelola pengarsipan fisik dan digital surat masuk/keluar, membantu penerimaan awal pengaduan dan tindak lanjut terkoordinasi, menyiapkan kebutuhan tamu dan acara, serta memantau persediaan kantor dan inventaris kegiatan.",
+      "en": "Managed physical and digital archives for incoming and outgoing correspondence, supported initial complaint intake and coordinated follow-up, prepared guest and event arrangements, and monitored office supplies and event inventory."
+    },
+    {
+      "key": "copy-0093",
+      "group": "journey",
+      "label": "Pengalaman 2 · Keahlian utama",
+      "kind": "text",
+      "id": "Records Management",
+      "en": "Records Management"
+    },
+    {
+      "key": "copy-0094",
+      "group": "journey",
+      "label": "Pengalaman 2 · Keahlian tambahan",
+      "kind": "text",
+      "id": "Complaint Intake",
+      "en": "Complaint Intake"
+    },
+    {
+      "key": "copy-0095",
+      "group": "journey",
+      "label": "Pengalaman 2 · Keahlian lainnya",
+      "kind": "text",
+      "id": "Administrative Coordination",
+      "en": "Administrative Coordination"
+    },
+    {
+      "key": "copy-0097",
+      "group": "journey",
+      "label": "Pengalaman 3 · Periode kegiatan",
+      "kind": "text",
+      "id": "MAR — JUN 2025",
+      "en": "MAR — JUN 2025"
+    },
+    {
+      "key": "copy-0098",
+      "group": "journey",
+      "label": "Pengalaman 3 · Jenis pengalaman",
+      "kind": "text",
+      "id": "COMMUNITY CONTRIBUTION",
+      "en": "COMMUNITY CONTRIBUTION"
+    },
+    {
+      "key": "copy-0099",
+      "group": "journey",
+      "label": "Pengalaman 3 · Posisi",
+      "kind": "text",
+      "id": "Sekretaris 1",
+      "en": "Secretary 1"
+    },
+    {
+      "key": "copy-0100",
+      "group": "journey",
+      "label": "Pengalaman 3 · Instansi atau organisasi",
+      "kind": "text",
+      "id": "KKN Konversi 117 · Karanganom, Wonokromo",
+      "en": "KKN Conversion 117 · Karanganom, Wonokromo"
+    },
+    {
+      "key": "copy-0101",
+      "group": "journey",
+      "label": "Pengalaman 3 · Tugas dan pencapaian",
+      "kind": "text",
+      "id": "Mengoordinasikan administrasi 10 program kerja dan menyelaraskan jadwal serta kebutuhan operasional dengan pemangku kepentingan desa. Memimpin program edukasi tubuh dan keselamatan “Aku Generasi CAKAP” untuk sekitar 200 siswa TK melalui presentasi interaktif dan lagu.",
+      "en": "Coordinated administration for 10 community programs and aligned schedules and operational needs with village stakeholders. Led the “Aku Generasi CAKAP” body awareness and safety program for about 200 kindergarten students through interactive presentations and songs."
+    },
+    {
+      "key": "copy-0102",
+      "group": "journey",
+      "label": "Pengalaman 3 · Keahlian utama",
+      "kind": "text",
+      "id": "Official Correspondence",
+      "en": "Official Correspondence"
+    },
+    {
+      "key": "copy-0103",
+      "group": "journey",
+      "label": "Pengalaman 3 · Keahlian tambahan",
+      "kind": "text",
+      "id": "Stakeholder Coordination",
+      "en": "Stakeholder Coordination"
+    },
+    {
+      "key": "copy-0104",
+      "group": "journey",
+      "label": "Pengalaman 3 · Keahlian lainnya",
+      "kind": "text",
+      "id": "Community Education",
+      "en": "Community Education"
+    },
+    {
+      "key": "copy-0106",
+      "group": "journey",
+      "label": "Pengalaman 4 · Periode kegiatan",
+      "kind": "text",
+      "id": "FEB — SEP 2024",
+      "en": "FEB — SEP 2024"
+    },
+    {
+      "key": "copy-0107",
+      "group": "journey",
+      "label": "Pengalaman 4 · Jenis pengalaman",
+      "kind": "text",
+      "id": "VOLUNTEER EXPERIENCE",
+      "en": "VOLUNTEER EXPERIENCE"
+    },
+    {
+      "key": "copy-0108",
+      "group": "journey",
+      "label": "Pengalaman 4 · Posisi",
+      "kind": "text",
+      "id": "Relawan & Sekretaris Tim 55",
+      "en": "Volunteer & Team 55 Secretary"
+    },
+    {
+      "key": "copy-0109",
+      "group": "journey",
+      "label": "Pengalaman 4 · Instansi atau organisasi",
+      "kind": "text",
+      "id": "Novo Club · Generasi Literasi Batch 7",
+      "en": "Novo Club · Generasi Literasi Batch 7"
+    },
+    {
+      "key": "copy-0110",
+      "group": "journey",
+      "label": "Pengalaman 4 · Tugas dan pencapaian",
+      "kind": "text",
+      "id": "Mendukung koordinasi program literasi, komunikasi eksternal, administrasi tim, dan pencatatan inventaris sekitar 96 buku donasi hingga penyusunan laporan akhir.",
+      "en": "Supported literacy program coordination, external communication, team administration, and inventory records for about 96 donated books through preparation of the final report."
+    },
+    {
+      "key": "copy-0111",
+      "group": "journey",
+      "label": "Pengalaman 4 · Keahlian utama",
+      "kind": "text",
+      "id": "Inventory Management",
+      "en": "Inventory Management"
+    },
+    {
+      "key": "copy-0112",
+      "group": "journey",
+      "label": "Pengalaman 4 · Keahlian tambahan",
+      "kind": "text",
+      "id": "Team Coordination",
+      "en": "Team Coordination"
+    },
+    {
+      "key": "copy-0113",
+      "group": "journey",
+      "label": "Pengalaman 4 · Keahlian lainnya",
+      "kind": "text",
+      "id": "Report Preparation",
+      "en": "Report Preparation"
+    },
+    {
+      "key": "copy-0116",
+      "group": "journey",
+      "label": "Label bagian pendidikan",
+      "kind": "text",
+      "id": "SEP 2022 — APR 2026 / PENDIDIKAN",
+      "en": "SEP 2022 — APR 2026 / EDUCATION"
+    },
+    {
+      "key": "copy-0117",
+      "group": "journey",
+      "label": "Gelar pendidikan",
+      "kind": "text",
+      "id": "Sarjana Hukum (S.H.) —",
+      "en": "Bachelor of Laws (S.H.) —"
+    },
+    {
+      "key": "copy-0118",
+      "group": "journey",
+      "label": "Konsentrasi pendidikan",
+      "kind": "text",
+      "id": "Konsentrasi Hukum Tata Negara (Siyasah)",
+      "en": "Concentration in Constitutional Law (Siyasah)"
+    },
+    {
+      "key": "copy-0119",
+      "group": "journey",
+      "label": "Universitas, IPK, dan skripsi",
+      "kind": "text",
+      "id": "UIN Sunan Kalijaga Yogyakarta · IPK 3,92/4,00 · Cum Laude. Skripsi: Efektivitas penerapan Permendagri Nomor 20 Tahun 2018 dalam mewujudkan akuntabilitas dana desa (studi kasus Desa Krandegan, Bayan, Purworejo).",
+      "en": "UIN Sunan Kalijaga Yogyakarta · GPA 3.92/4.00 · Cum Laude. Thesis: The effectiveness of Minister of Home Affairs Regulation No. 20 of 2018 in realizing village fund accountability (case study of Krandegan Village, Bayan, Purworejo)."
+    },
+    {
+      "key": "copy-0120",
+      "group": "journey",
+      "label": "Penghargaan lulusan",
+      "kind": "text",
+      "id": "✳ Lulusan terbaik & tercepat",
+      "en": "✳ Best and fastest graduate"
+    },
+    {
+      "key": "copy-0121",
+      "group": "journey",
+      "label": "Keterangan penghargaan",
+      "kind": "text",
+      "id": "Program Studi · Periode IV TA 2025/2026",
+      "en": "Degree program · Period IV, 2025/2026 academic year"
+    },
+    {
+      "key": "copy-0122",
+      "group": "work",
+      "label": "Label bagian portofolio",
+      "kind": "text",
+      "id": "03 / DI BALIK KONTRIBUSI",
+      "en": "03 / SELECTED WORK"
+    },
+    {
+      "key": "copy-0123",
+      "group": "work",
+      "label": "Judul portofolio (baris 1)",
+      "kind": "text",
+      "id": "Potongan cerita,",
+      "en": "Moments from the work,"
+    },
+    {
+      "key": "copy-0124",
+      "group": "work",
+      "label": "Judul portofolio (baris 2)",
+      "kind": "text",
+      "id": "pengalaman yang nyata.",
+      "en": "lessons that last."
+    },
+    {
+      "key": "copy-0125",
+      "group": "work",
+      "label": "Pengantar portofolio (baris 1)",
+      "kind": "text",
+      "id": "Catatan visual tentang belajar, berkolaborasi,",
+      "en": "A visual record of learning, collaborating,"
+    },
+    {
+      "key": "copy-0126",
+      "group": "work",
+      "label": "Pengantar portofolio (baris 2)",
+      "kind": "text",
+      "id": "dan hadir untuk memberi kontribusi.",
+      "en": "and making a thoughtful contribution."
+    },
+    {
+      "key": "copy-0127",
+      "group": "work",
+      "label": "Label aksesibilitas: Filter portofolio 1",
+      "kind": "alt",
+      "id": "Filter portofolio",
+      "en": "Filter portofolio"
+    },
+    {
+      "key": "copy-0128",
+      "group": "work",
+      "label": "Filter: semua cerita",
+      "kind": "text",
+      "id": "Semua cerita",
+      "en": "All stories"
+    },
+    {
+      "key": "copy-0130",
+      "group": "work",
+      "label": "Filter: hukum dan riset",
+      "kind": "text",
+      "id": "Hukum & riset",
+      "en": "Law & research"
+    },
+    {
+      "key": "copy-0131",
+      "group": "work",
+      "label": "Filter: administrasi legal",
+      "kind": "text",
+      "id": "Administrasi legal",
+      "en": "Legal administration"
+    },
+    {
+      "key": "copy-0132",
+      "group": "work",
+      "label": "Filter: kolaborasi",
+      "kind": "text",
+      "id": "Kolaborasi",
+      "en": "Collaboration"
+    },
+    {
+      "key": "copy-0133",
+      "group": "work",
+      "label": "Deskripsi foto cerita 1",
+      "kind": "alt",
+      "id": "Kegiatan analisis peraturan dan penyusunan memorandum",
+      "en": "Reviewing regulations and preparing a legal memorandum"
+    },
+    {
+      "key": "copy-0134",
+      "group": "work",
+      "label": "Foto cerita 1",
+      "kind": "image",
+      "id": "/public/assets/riset-hukum-analisis-peraturan-dan-penyusunan-memorandum.jpg",
+      "en": "/public/assets/riset-hukum-analisis-peraturan-dan-penyusunan-memorandum.jpg"
+    },
+    {
+      "key": "copy-0135",
+      "group": "work",
+      "label": "Kategori cerita 1",
+      "kind": "text",
+      "id": "LEGAL RESEARCH & DOCUMENTATION",
+      "en": "LEGAL RESEARCH & DOCUMENTATION"
+    },
+    {
+      "key": "copy-0136",
+      "group": "work",
+      "label": "Tahun cerita 1",
+      "kind": "text",
+      "id": "2026",
+      "en": "2026"
+    },
+    {
+      "key": "copy-0137",
+      "group": "work",
+      "label": "Judul cerita 1",
+      "kind": "text",
+      "id": "Dari penelaahan, menuju pemahaman.",
+      "en": "From review to understanding."
+    },
+    {
+      "key": "copy-0138",
+      "group": "work",
+      "label": "Ringkasan cerita 1",
+      "kind": "text",
+      "id": "Riset peraturan & dukungan memorandum hukum",
+      "en": "Regulatory research & legal memorandum support"
+    },
+    {
+      "key": "copy-0139",
+      "group": "work",
+      "label": "Deskripsi foto cerita 2",
+      "kind": "alt",
+      "id": "Meja pelayanan pengaduan Lapor Mas Wapres",
+      "en": "Lapor Mas Wapres complaint intake desk"
+    },
+    {
+      "key": "copy-0140",
+      "group": "work",
+      "label": "Foto cerita 2",
+      "kind": "image",
+      "id": "/public/assets/lapor-mas-wapres-meja-pelayanan-pengaduan.jpg",
+      "en": "/public/assets/lapor-mas-wapres-meja-pelayanan-pengaduan.jpg"
+    },
+    {
+      "key": "copy-0141",
+      "group": "work",
+      "label": "Kategori cerita 2",
+      "kind": "text",
+      "id": "LEGAL ADMINISTRATION",
+      "en": "LEGAL ADMINISTRATION"
+    },
+    {
+      "key": "copy-0142",
+      "group": "work",
+      "label": "Tahun cerita 2",
+      "kind": "text",
+      "id": "2026",
+      "en": "2026"
+    },
+    {
+      "key": "copy-0143",
+      "group": "work",
+      "label": "Judul cerita 2",
+      "kind": "text",
+      "id": "Mendengarkan dengan kepedulian.",
+      "en": "Listening with care."
+    },
+    {
+      "key": "copy-0144",
+      "group": "work",
+      "label": "Ringkasan cerita 2",
+      "kind": "text",
+      "id": "Dukungan administrasi layanan Lapor Mas Wapres",
+      "en": "Administrative support for Lapor Mas Wapres"
+    },
+    {
+      "key": "copy-0145",
+      "group": "work",
+      "label": "Deskripsi foto cerita 3",
+      "kind": "alt",
+      "id": "Diskusi aspek ketenagakerjaan industri nikel di Komnas HAM",
+      "en": "Discussion of labor issues in the nickel industry at Komnas HAM"
+    },
+    {
+      "key": "copy-0146",
+      "group": "work",
+      "label": "Foto cerita 3",
+      "kind": "image",
+      "id": "/public/assets/komnas-ham-diskusi-aspek-ketenagakerjaan-industri-nikel.jpg",
+      "en": "/public/assets/komnas-ham-diskusi-aspek-ketenagakerjaan-industri-nikel.jpg"
+    },
+    {
+      "key": "copy-0147",
+      "group": "work",
+      "label": "Kategori cerita 3",
+      "kind": "text",
+      "id": "LAW & HUMAN RIGHTS",
+      "en": "LAW & HUMAN RIGHTS"
+    },
+    {
+      "key": "copy-0148",
+      "group": "work",
+      "label": "Tahun cerita 3",
+      "kind": "text",
+      "id": "2026",
+      "en": "2026"
+    },
+    {
+      "key": "copy-0149",
+      "group": "work",
+      "label": "Judul cerita 3",
+      "kind": "text",
+      "id": "Memperluas ruang perspektif.",
+      "en": "Broadening perspectives."
+    },
+    {
+      "key": "copy-0150",
+      "group": "work",
+      "label": "Ringkasan cerita 3",
+      "kind": "text",
+      "id": "Dokumentasi diskusi di Komnas HAM",
+      "en": "Documentation of a discussion at Komnas HAM"
+    },
+    {
+      "key": "copy-0151",
+      "group": "work",
+      "label": "Deskripsi foto cerita 4",
+      "kind": "alt",
+      "id": "Foto bersama tim di ruang rapat Sekretariat Wakil Presiden",
+      "en": "Team photo in a meeting room at the Secretariat of the Vice President"
+    },
+    {
+      "key": "copy-0152",
+      "group": "work",
+      "label": "Foto cerita 4",
+      "kind": "image",
+      "id": "/public/assets/setwapres-foto-bersama-di-ruang-rapat.jpg",
+      "en": "/public/assets/setwapres-foto-bersama-di-ruang-rapat.jpg"
+    },
+    {
+      "key": "copy-0153",
+      "group": "work",
+      "label": "Kategori cerita 4",
+      "kind": "text",
+      "id": "COLLABORATION & GROWTH",
+      "en": "COLLABORATION & GROWTH"
+    },
+    {
+      "key": "copy-0154",
+      "group": "work",
+      "label": "Tahun cerita 4",
+      "kind": "text",
+      "id": "2026",
+      "en": "2026"
+    },
+    {
+      "key": "copy-0155",
+      "group": "work",
+      "label": "Judul cerita 4",
+      "kind": "text",
+      "id": "Bertumbuh bersama orang-orang baik.",
+      "en": "Growing with a great team."
+    },
+    {
+      "key": "copy-0156",
+      "group": "work",
+      "label": "Ringkasan cerita 4",
+      "kind": "text",
+      "id": "Belajar dan berkolaborasi di lingkungan pemerintahan",
+      "en": "Learning and collaborating in a government setting"
+    },
+    {
+      "key": "copy-0157",
+      "group": "skills",
+      "label": "Label bagian keahlian",
+      "kind": "text",
+      "id": "04 / YANG SAYA BAWA",
+      "en": "04 / WHAT I BRING"
+    },
+    {
+      "key": "copy-0158",
+      "group": "skills",
+      "label": "Judul keahlian (baris 1)",
+      "kind": "text",
+      "id": "Ketelitian dalam pikiran.",
+      "en": "Careful thinking."
+    },
+    {
+      "key": "copy-0159",
+      "group": "skills",
+      "label": "Judul keahlian (baris 2)",
+      "kind": "text",
+      "id": "Kepedulian dalam tindakan.",
+      "en": "Purposeful action."
+    },
+    {
+      "key": "copy-0160",
+      "group": "skills",
+      "label": "Keahlian · Teks singkat 1",
+      "kind": "text",
+      "id": "⌕",
+      "en": "⌕"
+    },
+    {
+      "key": "copy-0161",
+      "group": "skills",
+      "label": "Nama keahlian 1",
+      "kind": "text",
+      "id": "Analisis & Riset Hukum",
+      "en": "Legal Research & Analysis"
+    },
+    {
+      "key": "copy-0162",
+      "group": "skills",
+      "label": "Nama keahlian 1 dalam bahasa Inggris",
+      "kind": "text",
+      "id": "(Legal Research & Analysis)",
+      "en": "(Legal Research & Analysis)"
+    },
+    {
+      "key": "copy-0163",
+      "group": "skills",
+      "label": "Penjelasan keahlian 1",
+      "kind": "text",
+      "id": "Menyusun kronologi perkara, mengidentifikasi isu hukum, menelaah regulasi, meninjau dokumen, dan merangkai pertimbangan hukum dalam memorandum.",
+      "en": "Building case chronologies, identifying legal issues, reviewing regulations and documents, and organizing legal considerations in memoranda."
+    },
+    {
+      "key": "copy-0164",
+      "group": "skills",
+      "label": "Kata kunci keahlian 1",
+      "kind": "text",
+      "id": "Regulatory Review · Case Chronology · Legal Memorandum",
+      "en": "Regulatory Review · Case Chronology · Legal Memorandum"
+    },
+    {
+      "key": "copy-0165",
+      "group": "skills",
+      "label": "Keahlian · Teks singkat 3",
+      "kind": "text",
+      "id": "▤",
+      "en": "▤"
+    },
+    {
+      "key": "copy-0166",
+      "group": "skills",
+      "label": "Nama keahlian 2",
+      "kind": "text",
+      "id": "Administrasi Perkara & Dokumen",
+      "en": "Case & Document Administration"
+    },
+    {
+      "key": "copy-0167",
+      "group": "skills",
+      "label": "Nama keahlian 2 dalam bahasa Inggris",
+      "kind": "text",
+      "id": "(Case & Document Administration)",
+      "en": "(Case & Document Administration)"
+    },
+    {
+      "key": "copy-0168",
+      "group": "skills",
+      "label": "Penjelasan keahlian 2",
+      "kind": "text",
+      "id": "Menangani penerimaan pengaduan, memeriksa kelengkapan bukti pendukung, dan mengelola arsip fisik maupun digital agar rekam dokumen tertata dan mudah ditelusuri.",
+      "en": "Handling complaint intake, checking supporting evidence, and managing physical and digital archives so records remain organized and traceable."
+    },
+    {
+      "key": "copy-0169",
+      "group": "skills",
+      "label": "Kata kunci keahlian 2",
+      "kind": "text",
+      "id": "Complaint Intake · Evidence Verification · Records Management",
+      "en": "Complaint Intake · Evidence Verification · Records Management"
+    },
+    {
+      "key": "copy-0170",
+      "group": "skills",
+      "label": "Keahlian · Teks singkat 5",
+      "kind": "text",
+      "id": "♧",
+      "en": "♧"
+    },
+    {
+      "key": "copy-0171",
+      "group": "skills",
+      "label": "Nama keahlian 3",
+      "kind": "text",
+      "id": "Administrasi & Koordinasi",
+      "en": "Administration & Coordination"
+    },
+    {
+      "key": "copy-0172",
+      "group": "skills",
+      "label": "Nama keahlian 3 dalam bahasa Inggris",
+      "kind": "text",
+      "id": "(Administration & Coordination)",
+      "en": "(Administration & Coordination)"
+    },
+    {
+      "key": "copy-0173",
+      "group": "skills",
+      "label": "Penjelasan keahlian 3",
+      "kind": "text",
+      "id": "Mengelola surat-menyurat resmi, inventaris, persiapan kegiatan, dan laporan; berkoordinasi dengan tim serta pemangku kepentingan untuk mendukung operasional.",
+      "en": "Managing official correspondence, inventory, event preparation, and reports; coordinating with teams and stakeholders to support operations."
+    },
+    {
+      "key": "copy-0174",
+      "group": "skills",
+      "label": "Kata kunci keahlian 3",
+      "kind": "text",
+      "id": "Official Correspondence · Inventory · Microsoft Office",
+      "en": "Official Correspondence · Inventory · Microsoft Office"
+    },
+    {
+      "key": "copy-0175",
+      "group": "training",
+      "label": "Label bagian pelatihan",
+      "kind": "text",
+      "id": "05 / PELATIHAN, KURSUS & BUKTI DOKUMEN",
+      "en": "05 / TRAINING, COURSES & DOCUMENTS"
+    },
+    {
+      "key": "copy-0176",
+      "group": "training",
+      "label": "Judul pelatihan (baris 1)",
+      "kind": "text",
+      "id": "Terus belajar,",
+      "en": "Always learning,"
+    },
+    {
+      "key": "copy-0177",
+      "group": "training",
+      "label": "Judul pelatihan (baris 2)",
+      "kind": "text",
+      "id": "terus bertumbuh.",
+      "en": "always growing."
+    },
+    {
+      "key": "copy-0178",
+      "group": "training",
+      "label": "Pengantar pelatihan",
+      "kind": "text",
+      "id": "Pengalaman belajar dan seluruh bukti sertifikat, materi, serta webinar dalam satu tempat.",
+      "en": "Learning experiences and certificates, materials, and webinar records in one place."
+    },
+    {
+      "key": "copy-0180",
+      "group": "training",
+      "label": "Nama pelatihan 1 (baris 1)",
+      "kind": "text",
+      "id": "Pelatihan &",
+      "en": "Training &"
+    },
+    {
+      "key": "copy-0181",
+      "group": "training",
+      "label": "Nama pelatihan 1 (baris 2)",
+      "kind": "text",
+      "id": "Pengembangan",
+      "en": "Development"
+    },
+    {
+      "key": "copy-0182",
+      "group": "training",
+      "label": "Ringkasan pelatihan 1",
+      "kind": "text",
+      "id": "Introduction to Cyber Security dan Pendidikan & Pelatihan Satgas PPKS.",
+      "en": "Introduction to Cyber Security dan Pendidikan & Pelatihan Satgas PPKS."
+    },
+    {
+      "key": "copy-0183",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20introduction%20to%20cyber%20security.jpeg",
+      "en": "/public/document/sertifikat%20-%20introduction%20to%20cyber%20security.jpeg"
+    },
+    {
+      "key": "copy-0184",
+      "group": "training",
+      "label": "Teks tautan sertifikat keamanan siber",
+      "kind": "text",
+      "id": "Lihat sertifikat keamanan siber ↗",
+      "en": "Lihat sertifikat keamanan siber ↗"
+    },
+    {
+      "key": "copy-0185",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20introduction%20to%20cyber%20security.jpeg",
+      "en": "/public/document/sertifikat%20-%20introduction%20to%20cyber%20security.jpeg"
+    },
+    {
+      "key": "copy-0186",
+      "group": "training",
+      "label": "Teks unduh sertifikat keamanan siber",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0187",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20pendidikan%20dan%20pelatihan%20satgas%20ppks.jpeg",
+      "en": "/public/document/sertifikat%20-%20pendidikan%20dan%20pelatihan%20satgas%20ppks.jpeg"
+    },
+    {
+      "key": "copy-0188",
+      "group": "training",
+      "label": "Teks tautan sertifikat Satgas PPKS",
+      "kind": "text",
+      "id": "Lihat sertifikat Satgas PPKS ↗",
+      "en": "Lihat sertifikat Satgas PPKS ↗"
+    },
+    {
+      "key": "copy-0189",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20pendidikan%20dan%20pelatihan%20satgas%20ppks.jpeg",
+      "en": "/public/document/sertifikat%20-%20pendidikan%20dan%20pelatihan%20satgas%20ppks.jpeg"
+    },
+    {
+      "key": "copy-0190",
+      "group": "training",
+      "label": "Teks unduh sertifikat Satgas PPKS",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0192",
+      "group": "training",
+      "label": "Nama pelatihan 2 (baris 1)",
+      "kind": "text",
+      "id": "Seminar &",
+      "en": "Seminars &"
+    },
+    {
+      "key": "copy-0193",
+      "group": "training",
+      "label": "Nama pelatihan 2 (baris 2)",
+      "kind": "text",
+      "id": "Webinar",
+      "en": "Webinar"
+    },
+    {
+      "key": "copy-0194",
+      "group": "training",
+      "label": "Ringkasan pelatihan 2",
+      "kind": "text",
+      "id": "Knowledge Management, AI for Productivity, dan budaya kerja antikorupsi.",
+      "en": "Knowledge Management, AI for Productivity, dan budaya kerja antikorupsi."
+    },
+    {
+      "key": "copy-0195",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/seminar%20-%20knowladge%20management.jpeg",
+      "en": "/public/document/seminar%20-%20knowladge%20management.jpeg"
+    },
+    {
+      "key": "copy-0196",
+      "group": "training",
+      "label": "Teks tautan dokumen Knowledge Management",
+      "kind": "text",
+      "id": "Lihat dokumen KM ↗",
+      "en": "Lihat dokumen KM ↗"
+    },
+    {
+      "key": "copy-0197",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/seminar%20-%20knowladge%20management.jpeg",
+      "en": "/public/document/seminar%20-%20knowladge%20management.jpeg"
+    },
+    {
+      "key": "copy-0198",
+      "group": "training",
+      "label": "Teks unduh dokumen Knowledge Management",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0199",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/webinar%20-%20AI%20for%20productivity.jpeg",
+      "en": "/public/document/webinar%20-%20AI%20for%20productivity.jpeg"
+    },
+    {
+      "key": "copy-0200",
+      "group": "training",
+      "label": "Teks tautan webinar AI",
+      "kind": "text",
+      "id": "Lihat dokumen AI ↗",
+      "en": "Lihat dokumen AI ↗"
+    },
+    {
+      "key": "copy-0201",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/webinar%20-%20AI%20for%20productivity.jpeg",
+      "en": "/public/document/webinar%20-%20AI%20for%20productivity.jpeg"
+    },
+    {
+      "key": "copy-0202",
+      "group": "training",
+      "label": "Teks unduh webinar AI",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0203",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/webinar%20-%20membangun%20budaya%20kerja%20anti%20korupsi.jpeg",
+      "en": "/public/document/webinar%20-%20membangun%20budaya%20kerja%20anti%20korupsi.jpeg"
+    },
+    {
+      "key": "copy-0204",
+      "group": "training",
+      "label": "Teks tautan webinar antikorupsi",
+      "kind": "text",
+      "id": "Lihat dokumen antikorupsi ↗",
+      "en": "Lihat dokumen antikorupsi ↗"
+    },
+    {
+      "key": "copy-0205",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/webinar%20-%20membangun%20budaya%20kerja%20anti%20korupsi.jpeg",
+      "en": "/public/document/webinar%20-%20membangun%20budaya%20kerja%20anti%20korupsi.jpeg"
+    },
+    {
+      "key": "copy-0206",
+      "group": "training",
+      "label": "Teks unduh webinar antikorupsi",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0208",
+      "group": "training",
+      "label": "Nama pelatihan 3 (baris 1)",
+      "kind": "text",
+      "id": "Kursus &",
+      "en": "Courses &"
+    },
+    {
+      "key": "copy-0209",
+      "group": "training",
+      "label": "Nama pelatihan 3 (baris 2)",
+      "kind": "text",
+      "id": "Pengembangan Diri",
+      "en": "Pengembangan Diri"
+    },
+    {
+      "key": "copy-0210",
+      "group": "training",
+      "label": "Ringkasan pelatihan 3",
+      "kind": "text",
+      "id": "Praktikum Legal Drafting, Praktikum Pengadilan, dan Novo Club Leadership Bootcamp beserta materi bootcamp.",
+      "en": "Praktikum Legal Drafting, Praktikum Pengadilan, dan Novo Club Leadership Bootcamp beserta materi bootcamp."
+    },
+    {
+      "key": "copy-0211",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20praktikum%20legal%20drafting.jpeg",
+      "en": "/public/document/sertifikat%20-%20praktikum%20legal%20drafting.jpeg"
+    },
+    {
+      "key": "copy-0212",
+      "group": "training",
+      "label": "Teks tautan sertifikat Legal Drafting",
+      "kind": "text",
+      "id": "Lihat sertifikat drafting ↗",
+      "en": "Lihat sertifikat drafting ↗"
+    },
+    {
+      "key": "copy-0213",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20praktikum%20legal%20drafting.jpeg",
+      "en": "/public/document/sertifikat%20-%20praktikum%20legal%20drafting.jpeg"
+    },
+    {
+      "key": "copy-0214",
+      "group": "training",
+      "label": "Teks unduh sertifikat Legal Drafting",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0215",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20praktikum%20pengadilan.jpeg",
+      "en": "/public/document/sertifikat%20-%20praktikum%20pengadilan.jpeg"
+    },
+    {
+      "key": "copy-0216",
+      "group": "training",
+      "label": "Teks tautan sertifikat Praktikum Pengadilan",
+      "kind": "text",
+      "id": "Lihat sertifikat praktikum ↗",
+      "en": "Lihat sertifikat praktikum ↗"
+    },
+    {
+      "key": "copy-0217",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20praktikum%20pengadilan.jpeg",
+      "en": "/public/document/sertifikat%20-%20praktikum%20pengadilan.jpeg"
+    },
+    {
+      "key": "copy-0218",
+      "group": "training",
+      "label": "Teks unduh sertifikat Praktikum Pengadilan",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0219",
+      "group": "training",
+      "label": "Berkas berkas pendukung",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20novo%20club%20leadership%20bootcamp.jpeg",
+      "en": "/public/document/sertifikat%20-%20novo%20club%20leadership%20bootcamp.jpeg"
+    },
+    {
+      "key": "copy-0220",
+      "group": "training",
+      "label": "Teks tautan sertifikat Novo Club",
+      "kind": "text",
+      "id": "Lihat sertifikat bootcamp ↗",
+      "en": "Lihat sertifikat bootcamp ↗"
+    },
+    {
+      "key": "copy-0221",
+      "group": "training",
+      "label": "Berkas berkas pendukung (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/sertifikat%20-%20novo%20club%20leadership%20bootcamp.jpeg",
+      "en": "/public/document/sertifikat%20-%20novo%20club%20leadership%20bootcamp.jpeg"
+    },
+    {
+      "key": "copy-0222",
+      "group": "training",
+      "label": "Teks unduh sertifikat Novo Club",
+      "kind": "text",
+      "id": "Unduh ↓",
+      "en": "Download ↓"
+    },
+    {
+      "key": "copy-0223",
+      "group": "training",
+      "label": "Berkas materi Novo Club Bootcamp",
+      "kind": "asset",
+      "id": "/public/document/materi%20-%20bootcamp%20novo%20club.jpeg",
+      "en": "/public/document/materi%20-%20bootcamp%20novo%20club.jpeg"
+    },
+    {
+      "key": "copy-0224",
+      "group": "training",
+      "label": "Teks tautan materi Bootcamp",
+      "kind": "text",
+      "id": "Lihat materi bootcamp ↗",
+      "en": "Lihat materi bootcamp ↗"
+    },
+    {
+      "key": "copy-0225",
+      "group": "training",
+      "label": "Berkas materi Novo Club Bootcamp (salinan unduh)",
+      "kind": "asset",
+      "id": "/public/document/materi%20-%20bootcamp%20novo%20club.jpeg",
+      "en": "/public/document/materi%20-%20bootcamp%20novo%20club.jpeg"
+    },
+    {
+      "key": "copy-0226",
+      "group": "training",
+      "label": "Teks unduh materi Bootcamp",
+      "kind": "text",
+      "id": "Unduh materi ↓",
+      "en": "Download materials ↓"
+    },
+    {
+      "key": "copy-0227",
+      "group": "home",
+      "label": "Ornamen bunga dekoratif",
+      "kind": "image",
+      "id": "/public/decor/sakura.svg",
+      "en": "/public/decor/sakura.svg"
+    },
+    {
+      "key": "copy-0228",
+      "group": "home",
+      "label": "Judul kecil · Teks singkat 1",
+      "kind": "text",
+      "id": "A NOTE TO GROW BY",
+      "en": "A NOTE TO GROW BY"
+    },
+    {
+      "key": "copy-0229",
+      "group": "home",
+      "label": "Kutipan 1",
+      "kind": "text",
+      "id": "“Seperti sakura, setiap proses",
+      "en": "“Like cherry blossoms, every journey"
+    },
+    {
+      "key": "copy-0230",
+      "group": "home",
+      "label": "Kutipan 2",
+      "kind": "text",
+      "id": "punya waktunya untuk",
+      "en": "has its own time to"
+    },
+    {
+      "key": "copy-0231",
+      "group": "home",
+      "label": "Kutipan · Teks penekanan 1",
+      "kind": "text",
+      "id": "mekar.",
+      "en": "bloom."
+    },
+    {
+      "key": "copy-0232",
+      "group": "home",
+      "label": "Kutipan 3",
+      "kind": "text",
+      "id": "”",
+      "en": "”"
+    },
+    {
+      "key": "copy-0233",
+      "group": "home",
+      "label": "Catatan penutup · Teks singkat 1",
+      "kind": "text",
+      "id": "a little patience, a little purpose.",
+      "en": "a little patience, a little purpose."
+    },
+    {
+      "key": "copy-0234",
+      "group": "contact",
+      "label": "Label bagian kontak",
+      "kind": "text",
+      "id": "06 / MARI TERHUBUNG",
+      "en": "06 / GET IN TOUCH"
+    },
+    {
+      "key": "copy-0235",
+      "group": "contact",
+      "label": "Judul kontak (baris 1)",
+      "kind": "text",
+      "id": "Sebuah percakapan,",
+      "en": "One conversation,"
+    },
+    {
+      "key": "copy-0236",
+      "group": "contact",
+      "label": "Judul kontak (baris 2)",
+      "kind": "text",
+      "id": "awal kemungkinan baru.",
+      "en": "a new possibility."
+    },
+    {
+      "key": "copy-0237",
+      "group": "contact",
+      "label": "Kalimat ajakan (baris 1)",
+      "kind": "text",
+      "id": "Saya terbuka untuk peluang di bidang Corporate Legal, Legal Administration,",
+      "en": "I’m open to opportunities in Corporate Legal, Legal Administration,"
+    },
+    {
+      "key": "copy-0238",
+      "group": "contact",
+      "label": "Kalimat ajakan (baris 2)",
+      "kind": "text",
+      "id": "Company Secretary Support, dan Regulatory Compliance.",
+      "en": "Company Secretary Support, and Regulatory Compliance."
+    },
+    {
+      "key": "copy-0239",
+      "group": "contact",
+      "label": "Alamat email tujuan",
+      "kind": "asset",
+      "id": "mailto:afrahrifka@gmail.com",
+      "en": "mailto:afrahrifka@gmail.com"
+    },
+    {
+      "key": "copy-0240",
+      "group": "contact",
+      "label": "Alamat email yang ditampilkan",
+      "kind": "text",
+      "id": "afrahrifka@gmail.com",
+      "en": "afrahrifka@gmail.com"
+    },
+    {
+      "key": "copy-0242",
+      "group": "contact",
+      "label": "Lokasi untuk bagian kontak",
+      "kind": "text",
+      "id": "◎ Berbasis di Jakarta, Indonesia",
+      "en": "◎ Based in Jakarta, Indonesia"
+    },
+    {
+      "key": "copy-0243",
+      "group": "contact",
+      "label": "Nomor telepon tujuan",
+      "kind": "asset",
+      "id": "tel:+6281291495006",
+      "en": "tel:+6281291495006"
+    },
+    {
+      "key": "copy-0244",
+      "group": "contact",
+      "label": "Teks tautan telepon",
+      "kind": "text",
+      "id": "Hubungi melalui telepon ↗",
+      "en": "Call me ↗"
+    },
+    {
+      "key": "copy-0245",
+      "group": "contact",
+      "label": "Tautan profil LinkedIn",
+      "kind": "asset",
+      "id": "https://www.linkedin.com/in/afrah-rifka-afifah/",
+      "en": "https://www.linkedin.com/in/afrah-rifka-afifah/"
+    },
+    {
+      "key": "copy-0246",
+      "group": "contact",
+      "label": "Teks tautan LinkedIn",
+      "kind": "text",
+      "id": "LinkedIn ↗",
+      "en": "LinkedIn ↗"
+    },
+    {
+      "key": "copy-0247",
+      "group": "contact",
+      "label": "Berkas CV",
+      "kind": "asset",
+      "id": "/public/cv.pdf",
+      "en": "/public/cv.pdf"
+    },
+    {
+      "key": "copy-0248",
+      "group": "contact",
+      "label": "Nama file CV saat diunduh",
+      "kind": "text",
+      "id": "CV-Afrah-Rifka-Afifah.pdf",
+      "en": "CV-Afrah-Rifka-Afifah.pdf"
+    },
+    {
+      "key": "copy-0249",
+      "group": "contact",
+      "label": "Teks tombol unduh CV",
+      "kind": "text",
+      "id": "Unduh CV ↓",
+      "en": "Unduh CV ↓"
+    },
+    {
+      "key": "copy-0250",
+      "group": "footer",
+      "label": "Nama pada logo bawah",
+      "kind": "text",
+      "id": "afrah",
+      "en": "afrah"
+    },
+    {
+      "key": "copy-0252",
+      "group": "footer",
+      "label": "Kalimat penutup situs",
+      "kind": "text",
+      "id": "Made with care, blooming with purpose.",
+      "en": "Made with care, blooming with purpose."
+    },
+    {
+      "key": "copy-0255",
+      "group": "footer",
+      "label": "Nama pada hak cipta",
+      "kind": "text",
+      "id": "Afrah Rifka Afifah",
+      "en": "Afrah Rifka Afifah"
+    },
+    {
+      "key": "copy-0256",
+      "group": "footer",
+      "label": "Label tombol kembali ke atas",
+      "kind": "alt",
+      "id": "Kembali ke atas",
+      "en": "Kembali ke atas"
+    },
+    {
+      "key": "copy-0258",
+      "group": "work-detail",
+      "label": "Label aksesibilitas: Tutup detail 1",
+      "kind": "alt",
+      "id": "Tutup detail",
+      "en": "Tutup detail"
+    },
+    {
+      "key": "copy-0259",
+      "group": "work-detail",
+      "label": "Detail cerita · Label tombol 1",
+      "kind": "text",
+      "id": "×",
+      "en": "×"
+    },
+    {
+      "key": "ui-menu-open",
+      "group": "global",
+      "label": "Aksesibilitas · Buka menu",
+      "kind": "alt",
+      "id": "Buka menu",
+      "en": "Open menu"
+    },
+    {
+      "key": "ui-menu-close",
+      "group": "global",
+      "label": "Aksesibilitas · Tutup menu",
+      "kind": "alt",
+      "id": "Tutup menu",
+      "en": "Close menu"
+    },
+    {
+      "key": "ribbon-1",
+      "group": "global",
+      "label": "Kalimat inspirasi 1",
+      "kind": "text",
+      "id": "Rooted in integrity",
+      "en": "Rooted in integrity"
+    },
+    {
+      "key": "ribbon-2",
+      "group": "global",
+      "label": "Kalimat inspirasi 2",
+      "kind": "text",
+      "id": "Growing with empathy",
+      "en": "Growing with empathy"
+    },
+    {
+      "key": "ribbon-3",
+      "group": "global",
+      "label": "Kalimat inspirasi 3",
+      "kind": "text",
+      "id": "Blooming with purpose",
+      "en": "Blooming with purpose"
+    },
+    {
+      "key": "ribbon-4",
+      "group": "global",
+      "label": "Kalimat inspirasi 4",
+      "kind": "text",
+      "id": "Rooted in integrity",
+      "en": "Rooted in integrity"
+    },
+    {
+      "key": "portrait-edition",
+      "group": "home",
+      "label": "Edisi keterangan foto",
+      "kind": "text",
+      "id": "01 / 26",
+      "en": "01 / 26"
+    }
+  ],
+  "details": {
+    "research": {
+      "id": {
+        "label": "LEGAL RESEARCH & DOCUMENTATION · 2026",
+        "title": "Dari penelaahan, menuju pemahaman.",
+        "description": "Di Sekretariat Wakil Presiden RI, saya menyusun kronologi fakta, mengidentifikasi isu hukum, dan menelaah regulasi terkait perkara. Saya menyiapkan 3–4 memorandum hukum komprehensif per bulan untuk menghubungkan fakta dengan pertimbangan hukum dan opsi tindak lanjut sebagai bahan peninjauan internal.",
+        "tags": [
+          "Legal Analysis",
+          "Regulatory Research",
+          "Legal Memorandum"
+        ]
+      },
+      "en": {
+        "label": "LEGAL RESEARCH & DOCUMENTATION · 2026",
+        "title": "From review to understanding.",
+        "description": "At the Secretariat of the Vice President of Indonesia, I built fact chronologies, identified legal issues, and reviewed relevant regulations. I prepared 3–4 comprehensive legal memoranda per month, connecting case facts with legal considerations and follow-up options for internal review.",
+        "tags": [
+          "Legal Analysis",
+          "Regulatory Research",
+          "Legal Memorandum"
+        ]
+      }
+    },
+    "service": {
+      "id": {
+        "label": "LEGAL ADMINISTRATION · 2026",
+        "title": "Mendengarkan dengan kepedulian.",
+        "description": "Dalam tim layanan garis depan beranggotakan dua orang, saya membantu menangani 2–4 pengadu setiap minggu pada jadwal piket bergilir di layanan Lapor Mas Wapres. Tugasnya mencakup klarifikasi isu, pemeriksaan lampiran, pencatatan informasi pengadu, dan input laporan ke sistem resmi.",
+        "tags": [
+          "Complaint Intake",
+          "Document Verification",
+          "Administrative Support"
+        ]
+      },
+      "en": {
+        "label": "LEGAL ADMINISTRATION · 2026",
+        "title": "Listening with care.",
+        "description": "As part of a two-person frontline service team, I helped handle 2–4 complainants each week during rotating assignments at Lapor Mas Wapres. My tasks included clarifying issues, checking attachments, recording complainant information, and entering submissions into the official system.",
+        "tags": [
+          "Complaint Intake",
+          "Document Verification",
+          "Administrative Support"
+        ]
+      }
+    },
+    "discussion": {
+      "id": {
+        "label": "LAW & HUMAN RIGHTS · 2026",
+        "title": "Memperluas ruang perspektif.",
+        "description": "Dokumentasi kegiatan diskusi mengenai aspek ketenagakerjaan dalam industri nikel di Komnas HAM, sebagai bagian dari pengalaman belajar selama magang. Ruang diskusi seperti ini memperluas pemahaman saya tentang hubungan antara kebijakan, persoalan hukum, dan hak asasi manusia.",
+        "tags": [
+          "Learning Experience",
+          "Labour Issues",
+          "Human Rights"
+        ]
+      },
+      "en": {
+        "label": "LAW & HUMAN RIGHTS · 2026",
+        "title": "Broadening perspectives.",
+        "description": "A discussion on labor issues in the nickel industry at Komnas HAM broadened my perspective on the connections between policy, law, and human rights.",
+        "tags": [
+          "Learning Experience",
+          "Labour Issues",
+          "Human Rights"
+        ]
+      }
+    },
+    "team": {
+      "id": {
+        "label": "COLLABORATION & GROWTH · 2026",
+        "title": "Bertumbuh bersama orang-orang baik.",
+        "description": "Pengalaman di Sekretariat Wakil Presiden RI mempertemukan saya dengan proses kerja pemerintahan dan kerja sama lintas peran. Saya belajar bahwa analisis yang baik perlu ditunjang dokumentasi yang tertata, komunikasi yang jelas, dan koordinasi administratif yang konsisten.",
+        "tags": [
+          "Teamwork",
+          "Administrative Coordination",
+          "Professional Growth"
+        ]
+      },
+      "en": {
+        "label": "COLLABORATION & GROWTH · 2026",
+        "title": "Growing with a great team.",
+        "description": "My experience at the Secretariat of the Vice President introduced me to government processes and cross-functional collaboration. I learned how sound analysis depends on organized documentation, clear communication, and consistent administrative coordination.",
+        "tags": [
+          "Teamwork",
+          "Administrative Coordination",
+          "Professional Growth"
+        ]
+      }
+    }
+  }
+}

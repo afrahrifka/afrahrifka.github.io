@@ -32,12 +32,15 @@ Kredensial lokal disimpan dalam `secret-github.txt` yang diabaikan Git. Jangan m
 
 ## Mengubah konten
 
-- `index.html`: biodata, pengalaman, foto, kontak, dan struktur halaman.
+- `content.json`: seluruh tulisan portofolio dalam Bahasa Indonesia dan English, deskripsi foto, tautan, serta detail cerita. Admin mengubah isi dari formulir; struktur halaman tetap berada di kode.
+- `index.html`: struktur dan tata letak halaman.
 - `style.css`: palet warna, tata letak responsif, dan animasi.
-- `main.js`: parallax, filter galeri, detail pengalaman, serta menu ponsel.
+- `main.js`: menampilkan isi dari `content.json`, parallax, filter galeri, dan menu ponsel.
 - `public/cv.md`: salinan profil panjang. Sinkronkan dengan `cv.md` ketika biodata berubah.
 - `public/cv.pdf`: berkas yang diunduh dari tombol CV.
 - `public/cv-legal.pdf`: CV legal singkat alternatif. Sumbernya ada di `scripts/build_cv.py`.
+
+Panel admin menyediakan formulir per bagian, pilihan Bahasa Indonesia/English, pencarian isi, penggantian foto, dan unggah CV. Tombol **Simpan** memperbarui `content.json`, membuat commit, lalu menjalankan `push-github.sh`.
 
 Pilihan bahasa Indonesia/English tersedia di header. Bahasa yang dipilih disimpan di browser pengunjung.
 
