@@ -494,7 +494,7 @@
       "group": "journey",
       "label": "Judul perjalanan (baris 2)",
       "kind": "text",
-      "id": "sebuah pembelajaran.",
+      "id": "membentuk tujuan",
       "en": "a chance to learn."
     },
     {
@@ -502,7 +502,7 @@
       "group": "journey",
       "label": "Pengantar perjalanan (baris 1)",
       "kind": "text",
-      "id": "Dari ruang akademik ke lingkungan profesional yang dinamis.",
+      "id": "Dari ruang akademik menuju pengalaman profesional.",
       "en": "From university to a dynamic professional environment."
     },
     {
@@ -510,7 +510,7 @@
       "group": "journey",
       "label": "Pengantar perjalanan (baris 2)",
       "kind": "text",
-      "id": "Orientasi detail, integritas, dan ketahanan membentuk cara saya bekerja.",
+      "id": "Setiap proses membentuk ketelitian, integritas, dan tanggung jawab.",
       "en": "Attention to detail, integrity, and resilience shape the way I work."
     },
     {
@@ -534,7 +534,7 @@
       "group": "journey",
       "label": "Pengalaman 1 · Posisi",
       "kind": "text",
-      "id": "Legal Analyst",
+      "id": "Legal Analyst Intern",
       "en": "Legal Analyst"
     },
     {
@@ -550,7 +550,7 @@
       "group": "journey",
       "label": "Pengalaman 1 · Tugas dan pencapaian",
       "kind": "text",
-      "id": "Menyusun kronologi fakta, mengidentifikasi isu hukum, menelaah regulasi, serta menyiapkan 3–4 memorandum hukum komprehensif per bulan untuk peninjauan internal. Mengelola bukti dan arsip perkara yang dapat ditelusuri, serta membantu layanan Lapor Mas Wapres menangani 2–4 pengadu setiap minggu secara bergiliran.",
+      "id": "Menyusun analisis dan memorandum hukum sebanyak 3–4 dokumen per bulan melalui penelusuran kronologi fakta, identifikasi isu hukum, dan penelitian regulasi. Memverifikasi dokumen pendukung serta membantu layanan Lapor Mas Wapres menangani 2–4 pengadu setiap minggu secara bergiliran.",
       "en": "Built fact chronologies, identified legal issues, reviewed regulations, and prepared 3–4 comprehensive legal memoranda per month for internal review. Organized traceable evidence and case files, and supported Lapor Mas Wapres in handling 2–4 complainants weekly during rotating assignments."
     },
     {
@@ -574,7 +574,7 @@
       "group": "journey",
       "label": "Pengalaman 1 · Keahlian lainnya",
       "kind": "text",
-      "id": "Case Documentation",
+      "id": "Document Verification",
       "en": "Case Documentation"
     },
     {
@@ -614,7 +614,7 @@
       "group": "journey",
       "label": "Pengalaman 2 · Tugas dan pencapaian",
       "kind": "text",
-      "id": "Mengelola pengarsipan fisik dan digital surat masuk/keluar, membantu penerimaan awal pengaduan dan tindak lanjut terkoordinasi, menyiapkan kebutuhan tamu dan acara, serta memantau persediaan kantor dan inventaris kegiatan.",
+      "id": "Mengelola administrasi surat masuk dan keluar, pengarsipan fisik dan digital, serta pencatatan dokumen. Membantu penerimaan awal pengaduan dan koordinasi tindak lanjut, menyiapkan kebutuhan tamu dan acara, serta memantau inventaris dan persediaan kantor.",
       "en": "Managed physical and digital archives for incoming and outgoing correspondence, supported initial complaint intake and coordinated follow-up, prepared guest and event arrangements, and monitored office supplies and event inventory."
     },
     {
@@ -630,7 +630,7 @@
       "group": "journey",
       "label": "Pengalaman 2 · Keahlian tambahan",
       "kind": "text",
-      "id": "Complaint Intake",
+      "id": "Complaint Administration",
       "en": "Complaint Intake"
     },
     {
@@ -678,7 +678,7 @@
       "group": "journey",
       "label": "Pengalaman 3 · Tugas dan pencapaian",
       "kind": "text",
-      "id": "Mengoordinasikan administrasi 10 program kerja dan menyelaraskan jadwal serta kebutuhan operasional dengan pemangku kepentingan desa. Memimpin program edukasi tubuh dan keselamatan “Aku Generasi CAKAP” untuk sekitar 200 siswa TK melalui presentasi interaktif dan lagu.",
+      "id": "Mengelola administrasi dan koordinasi 10 program kerja, termasuk surat-menyurat serta penyelarasan kebutuhan operasional dengan pemangku kepentingan desa. Memimpin program edukasi tubuh dan keselamatan “Aku Generasi CAKAP” bagi sekitar 200 siswa TK melalui pembelajaran interaktif.",
       "en": "Coordinated administration for 10 community programs and aligned schedules and operational needs with village stakeholders. Led the “Aku Generasi CAKAP” body awareness and safety program for about 200 kindergarten students through interactive presentations and songs."
     },
     {
@@ -726,7 +726,7 @@
       "group": "journey",
       "label": "Pengalaman 4 · Posisi",
       "kind": "text",
-      "id": "Relawan & Sekretaris Tim 55",
+      "id": "Volunteer & Secretary, Team 55",
       "en": "Volunteer & Team 55 Secretary"
     },
     {
@@ -742,7 +742,7 @@
       "group": "journey",
       "label": "Pengalaman 4 · Tugas dan pencapaian",
       "kind": "text",
-      "id": "Mendukung koordinasi program literasi, komunikasi eksternal, administrasi tim, dan pencatatan inventaris sekitar 96 buku donasi hingga penyusunan laporan akhir.",
+      "id": "Mendukung koordinasi program literasi dan komunikasi eksternal, mengelola administrasi tim serta inventaris sekitar 96 buku donasi, dan berkontribusi dalam kegiatan distribusi buku serta penyusunan laporan akhir.",
       "en": "Supported literacy program coordination, external communication, team administration, and inventory records for about 96 donated books through preparation of the final report."
     },
     {
@@ -790,7 +790,7 @@
       "group": "journey",
       "label": "Konsentrasi pendidikan",
       "kind": "text",
-      "id": "Konsentrasi Hukum Tata Negara (Siyasah)",
+      "id": "Hukum Tata Negara (Siyasah)",
       "en": "Concentration in Constitutional Law (Siyasah)"
     },
     {
@@ -798,7 +798,7 @@
       "group": "journey",
       "label": "Universitas, IPK, dan skripsi",
       "kind": "text",
-      "id": "UIN Sunan Kalijaga Yogyakarta · IPK 3,92/4,00 · Cum Laude. Skripsi: Efektivitas penerapan Permendagri Nomor 20 Tahun 2018 dalam mewujudkan akuntabilitas dana desa (studi kasus Desa Krandegan, Bayan, Purworejo).",
+      "id": "UIN Sunan Kalijaga Yogyakarta · IPK 3,92/4,00 · Cum Laude. Skripsi: Efektivitas Penerapan Peraturan Menteri Dalam Negeri Nomor 20 Tahun 2018 dalam Mewujudkan Akuntabilitas Dana Desa (Studi Kasus di Desa Krandegan, Bayan, Purworejo).",
       "en": "UIN Sunan Kalijaga Yogyakarta · GPA 3.92/4.00 · Cum Laude. Thesis: The effectiveness of Minister of Home Affairs Regulation No. 20 of 2018 in realizing village fund accountability (case study of Krandegan Village, Bayan, Purworejo)."
     },
     {
