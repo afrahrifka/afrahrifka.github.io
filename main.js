@@ -1,9 +1,34 @@
-// GitHub Pages can serve this repository directly (without running Vite), so
-// load the content as JSON over HTTP instead of relying on Vite's JSON import.
+// GitHub Pages serves this file directly from the repository root.
 (async () => {
-const contentResponse = await fetch('/content.json');
-if (!contentResponse.ok) throw new Error(`Could not load portfolio content (${contentResponse.status})`);
-const siteContent = await contentResponse.json();
+const cacheKey = 'portfolio-content-cache-v1';
+let siteContent;
+try {
+  let response;
+  try {
+    response = await fetch('/content.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  } catch {
+    response = await fetch(`/content.json?refresh=${Date.now()}`, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  }
+  siteContent = await response.json();
+  if (!Array.isArray(siteContent.fields) || !siteContent.fields.length) throw new Error('Invalid content data');
+  try { localStorage.setItem(cacheKey, JSON.stringify(siteContent)); } catch {}
+} catch (error) {
+  try {
+    const cachedContent = JSON.parse(localStorage.getItem(cacheKey) || 'null');
+    if (Array.isArray(cachedContent?.fields) && cachedContent.fields.length) siteContent = cachedContent;
+  } catch {}
+  if (!siteContent) {
+    console.error('Portfolio content could not be loaded.', error);
+    const notice = document.createElement('p');
+    notice.setAttribute('role', 'alert');
+    notice.textContent = 'Konten belum dapat dimuat. Periksa koneksi lalu muat ulang halaman.';
+    notice.style.cssText = 'position:fixed;z-index:9999;top:1rem;left:1rem;right:1rem;padding:1rem;background:#fff;color:#403f38;text-align:center;border:1px solid #dedbd1';
+    document.body.prepend(notice);
+    return;
+  }
+}
 
 const contentByKey = new Map(siteContent.fields.map(field => [field.key, field]));
 let language = 'id';
