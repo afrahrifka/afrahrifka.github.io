@@ -1,4 +1,9 @@
-import siteContent from './content.json';
+// GitHub Pages can serve this repository directly (without running Vite), so
+// load the content as JSON over HTTP instead of relying on Vite's JSON import.
+(async () => {
+const contentResponse = await fetch('/content.json');
+if (!contentResponse.ok) throw new Error(`Could not load portfolio content (${contentResponse.status})`);
+const siteContent = await contentResponse.json();
 
 const contentByKey = new Map(siteContent.fields.map(field => [field.key, field]));
 let language = 'id';
@@ -144,3 +149,4 @@ document.querySelectorAll('[data-lang]').forEach(button => button.addEventListen
 let initialLanguage = 'id';
 try { if (localStorage.getItem('portfolio-language') === 'en') initialLanguage = 'en'; } catch {}
 setLanguage(initialLanguage);
+})();
