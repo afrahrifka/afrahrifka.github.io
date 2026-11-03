@@ -1262,7 +1262,7 @@
       "group": "training",
       "label": "Pengantar pelatihan",
       "kind": "text",
-      "id": "Pengalaman belajar dan seluruh bukti sertifikat, materi, serta webinar dalam satu tempat.",
+      "id": "Ruang belajar untuk memperluas wawasan, mengembangkan kompetensi, dan mendokumentasikan pencapaian.",
       "en": "Learning experiences and certificates, materials, and webinar records in one place."
     },
     {
@@ -1270,7 +1270,7 @@
       "group": "training",
       "label": "Nama pelatihan 1 (baris 1)",
       "kind": "text",
-      "id": "Pelatihan &",
+      "id": "Pelatihan",
       "en": "Training &"
     },
     {
@@ -1278,7 +1278,7 @@
       "group": "training",
       "label": "Nama pelatihan 1 (baris 2)",
       "kind": "text",
-      "id": "Pengembangan",
+      "id": "Profesional",
       "en": "Development"
     },
     {
@@ -1494,7 +1494,7 @@
       "group": "training",
       "label": "Ringkasan pelatihan 3",
       "kind": "text",
-      "id": "Praktikum Legal Drafting, Praktikum Pengadilan, dan Novo Club Leadership Bootcamp beserta materi bootcamp.",
+      "id": "Praktikum Legal Drafting, Praktikum Peradilan Agama, dan Novo Club Leadership Bootcamp beserta materi bootcamp.",
       "en": "Praktikum Legal Drafting, Praktikum Pengadilan, dan Novo Club Leadership Bootcamp beserta materi bootcamp."
     },
     {
