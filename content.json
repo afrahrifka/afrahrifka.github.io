@@ -182,7 +182,7 @@
       "group": "home",
       "label": "Bidang pekerjaan 1",
       "kind": "text",
-      "id": "LEGAL ANALYST",
+      "id": "LEGAL RESEARCH & ANALYSIS ",
       "en": "LEGAL ANALYST"
     },
     {
@@ -198,7 +198,7 @@
       "group": "home",
       "label": "Bidang pekerjaan 3",
       "kind": "text",
-      "id": "COMPLIANCE & LEGAL SUPPORT",
+      "id": "COMPLIANCE & LEGAL SUPPORT | REGULATORY RESEARCH & DOCUMENT VERIFICATION ",
       "en": "COMPLIANCE & LEGAL SUPPORT"
     },
     {
