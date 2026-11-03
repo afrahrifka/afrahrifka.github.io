@@ -1702,7 +1702,7 @@
       "group": "contact",
       "label": "Judul kontak (baris 2)",
       "kind": "text",
-      "id": "awal kemungkinan baru.",
+      "id": "awal peluang yang baru.",
       "en": "a new possibility."
     },
     {
@@ -1742,7 +1742,7 @@
       "group": "contact",
       "label": "Lokasi untuk bagian kontak",
       "kind": "text",
-      "id": "◎ Berbasis di Jakarta, Indonesia",
+      "id": "◎ Berbasis di Jakarta Barat, Indonesia",
       "en": "◎ Based in Jakarta, Indonesia"
     },
     {
